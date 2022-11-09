@@ -360,7 +360,7 @@ background-size: cover;
 .ending_left img {
 
     max-width: 100%;
-    height: auto;
+ 
 
 }
 
@@ -374,7 +374,7 @@ background-size: cover;
     font-family: 'Inter';
     font-weight: 200;
     color: #FFFFFF;
-    font-size: 1vw;
+    font-size: 1.5vw;
 
     text-align: right;
 
