@@ -142,7 +142,7 @@ body{
 
 .hero {
 
-background-image: url("assets/background_full.png");
+background-image: "../assets/background_full.png";
 background-size: cover;
 
 
@@ -321,7 +321,7 @@ background-size: cover;
     justify-content: start;
 
     background-color:#18191A;
-    background-image: url("assets/figurine_bg.PNG");
+    background-image: "../assets/figurine_bg.png";
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
