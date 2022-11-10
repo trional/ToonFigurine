@@ -202,12 +202,22 @@ background-size: cover;
 }
 
 .inner_card2_down_media {
+
+    width: 20%;
+    height: 50%;
+    
     position: absolute;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
+}
+.inner_card2_down_media img{
+
+    width: 100%;
+    height: 100%;
+    
 }
 
 
