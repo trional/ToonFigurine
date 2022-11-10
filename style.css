@@ -478,8 +478,8 @@ background-size: cover;
 
     .inner_card2_down_media img{
 
-        height: 85%;
-        width: 85%;
+        height: auto;
+        width: 100%;
     }
     .inner_card2_down_button {
 
@@ -520,8 +520,8 @@ background-size: cover;
 
     .inner_card2_down_media img{
 
-        height: 65%;
-        width: 65%;
+        height: auto;
+        width: 100%;
     }
 
 
@@ -551,8 +551,8 @@ background-size: cover;
 
     .inner_card2_down_media img{
 
-        height: 35%;
-        width: 35%;
+        height: auto;
+        width: 100%;
     }
 
     .inner_card2_down_button {
@@ -576,8 +576,34 @@ background-size: cover;
 
     .inner_card2_down_media img{
 
-        height: 25%;
-        width: 25%;
+        height: auto;
+        width: 100%;    
+    }
+
+    .descri {
+
+        height: 130vh;
+        width: 100%;
+
+        font-size: 4vw;
+    }
+
+    .card2_down {
+
+        height: 35vh;
+
+    }
+    .pannel {
+        max-width: 100%;
+        height: 35vh;
+
+        justify-content: center;
+        align-items: center;
+
+    }
+    .pannel_inner {
+        font-size: 3vw;
+        width: 100%;
     }
 
 }
